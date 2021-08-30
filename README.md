@@ -5,7 +5,7 @@
 --------------------------
 ## Resources
 - [Code](/PyBer_Challenge.ipynb)
-- [Line Graph](/analysis/PyBer_fare_summary.png)
+- ![pyber](https://user-images.githubusercontent.com/80421977/131390774-3aa076cd-cdc9-4da3-9d11-965f65c76b26.png)
 --------------------------
 ## Results
 - By looking at the code, you can see that there is a clear trend on the population of an area and the amount of total rides, drivers and fares there are. Urban areas have the most rides with 1,625 and rural has the least with 125. However the trend changes when referring to average fare per ride and average fare per driver. It is a much higher amount for the average fare per driver in rural areas at $55.49 and only $16.57 in urban areas. This price difference can be understanded by the longer drives in rural areas and less drivers in rural areas versus urban, therefore driving up the price.
